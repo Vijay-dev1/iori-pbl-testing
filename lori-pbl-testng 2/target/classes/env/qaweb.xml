@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+    <object id="base">
+        <loginUrl>https://hyla.qa.hellolori.com/</loginUrl>
+        <macdriver>mac/chromedriver</macdriver>
+        <windriver>win/chromedriver.exe</windriver>
+    </object>
+</environment>
